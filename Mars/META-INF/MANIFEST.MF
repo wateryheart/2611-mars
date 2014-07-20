@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: .
+Created-By: 1.6.0_43 (Apple Inc.)
+Main-Class: Mars
+
